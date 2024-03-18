@@ -19,10 +19,9 @@ The Rock-Paper-Scissors game is a classic hand game usually played between two p
 
 - **colorama**: A Python library for adding color and style to terminal output. It is used for styling text in the console interface.
 - **random**: Python's standard library used for generating random numbers and selections.
-- **sys**: Python's standard library used for interacting with the Python interpreter. It is used for exiting the game.
 - **time**: Python's standard library used for time-related functions.
 - **os**: Python's standard library used for interacting with the operating system. It is used for file I/O operations.
-- **tkinter**: Python's standard GUI (Graphical User Interface) library. While this game is not built with a GUI, tkinter was initially imported but not used.
+
 
 ## How to Run
 
